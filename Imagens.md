@@ -1,14 +1,16 @@
-### Pesquisa e Dashboard
+## Pesquisa e Dashboard
 
-<p> 
-	<img align="letf" width="400" height="225" src=".github/Search.png" />
-	<img align="right" width="400" height="225" src=".github/Dashboard.png" />
-</p>
+### Pesquisa
+<img align="center" width="800" height="450" src=".github/Search.png" />
+
+### Dashboard
+<img align="center" width="800" height="450" src=".github/Dashboard.png" />
 
 
-### Detalhes das faturas
+## Detalhes das faturas
 
-<p> 
-	<img align="left" width="400" height="225" src=".github/Invoice-paid.png" />
-	<img align="right" width="400" height="225" src=".github/Invoice-open.png" />
-</p>
+### Fatura paga
+<img align="center" width="800" height="450" src=".github/Invoice-paid.png" />
+
+### Fatura em aberto
+<img align="center" width="800" height="450" src=".github/Invoice-open.png" />
