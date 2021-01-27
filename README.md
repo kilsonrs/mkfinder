@@ -1,7 +1,7 @@
 # MkFinder
 
-## Objetivo
-Fazer consultas em vários sistemas simultâneamente. Isso dá mais agilidade no atendimento ao cliente.
+## Projeto
+Com o MkFinder, você não precisa entrar em vários sistemas até encontrar o cadastro que está procurando. Com apenas uma consulta, você obtém os dados mais relevantes para atender seu cliente com mais agilidade.
 
 
 
@@ -12,35 +12,13 @@ Fazer consultas em vários sistemas simultâneamente. Isso dá mais agilidade no
 
 
 ## Imagens
- 
-### Pesquisa e Dashboard
 
-<p> 
-	<img align="letf" width="300" height="170" src=".github/Search.png" />
-	<img align="right" width="300" height="170" src=".github/Dashboard.png" />
-</p>
-
-
-### Detalhes das faturas
-
-<p align="center"> 
-	<img align="left" width="300" height="170" src=".github/Invoice-paid.png" />
-	<img align="right" width="300" height="170" src=".github/Invoice-open.png" />
-</p>
+- [Telas do projeto](Imagens.md)
 
 
 
 
-
-
-
-
-
-
-
-
-
-## 📝 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
