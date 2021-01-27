@@ -7,6 +7,7 @@
 <img align="center" width="800" height="450" src=".github/Dashboard.png" />
 
 
+
 ## Detalhes das faturas
 
 ### Fatura paga
