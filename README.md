@@ -5,26 +5,37 @@
 
 <br />
 
-# MkFinder
 
 <img align="right" src=".github/Dashboard.png" alt="MK Finder" width="300">
 
 Com o MkFinder, você não precisa entrar em vários sistemas até encontrar o cadastro que está procurando. Com apenas uma consulta, você obtém os dados mais relevantes para atender seu cliente com mais agilidade.
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<h1>MK-Finder</h1>
+<br>
+<h2>Repositórios</h2>
+<br>
 
-
-## Repositórios
 - [Middleware API](https://github.com/kilsonrs/mkfinder-api)
 - [Web client](https://github.com/kilsonrs/mkfinder-web)
 
-
-
-## Imagens
+<br>
+<br>
+<h2>Imagens</h2>
+<br>
 
 - [Telas do projeto](Imagens.md)
 
+<br>
+<br>
 
-## License
+<h3>License</h3>
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
