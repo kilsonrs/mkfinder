@@ -8,7 +8,7 @@
 <br>
 <br>
 <p align="center">
-  <img width="650" src=".github/Start.png" />
+  <img width="912" src=".github/Start.png" />
 </p>
 <br>
 <br>
@@ -21,7 +21,7 @@
 <br>
 <br>
 <p align="center">
-  <img width="650" src=".github/Search.png" />
+  <img width="912" src=".github/Search.png" />
 </p>
 <br>
 <br>
@@ -31,7 +31,7 @@
 <br>
 <br>
 <p align="center">
-  <img width="650" src=".github/Dashboard.png" />
+  <img width="912" src=".github/Dashboard.png" />
 </p>
 <br>
 <br>
@@ -44,7 +44,7 @@
 <br>
 <br>
 <p align="center">
-  <img width="650" src=".github/Invoice-paid.png" />
+  <img width="912" src=".github/Invoice-paid.png" />
 </p>
 <br>
 <br>
@@ -54,5 +54,5 @@
 <br>
 <br>
 <p align="center">
-  <img width="650" src=".github/Invoice-open.png" />
+  <img width="912" src=".github/Invoice-open.png" />
 </p>
