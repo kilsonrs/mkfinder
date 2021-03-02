@@ -20,14 +20,14 @@
 <br>
 <h1>MK-Finder</h1>
 <br>
-<h2>Pra que serve isso?</h2>
+<h3>Pra que serve isso?</h3>
 <br>
 <p>
   Eu uso o sistema <a href="http://mk-auth.com.br/page/mkauth-1">MK-Auth</a>, um sistema para Provedores de Internet. Preciso acessar mais de um sistema desse. Com o MK-Finder posso fazer isso num lugar só e atender o cliente com mais agilidade.
 </p>
 <br>
 <br>
-<h2>Demonstração</h2>
+<h3>Demonstração</h3>
 <br>
 <p>
   Que tal uma demonstração? Acesse <a href="https://mkfinder.netlify.app">mkfinder.netlify.app</a> e tenha uma ideia de como esse sistema funciona.
@@ -38,7 +38,7 @@
 </p>
 <br>
 <br>
-<h2>Repositórios</h2>
+<h3>Repositórios</h3>
 <br>
 
 - [Middleware API](https://github.com/kilsonrs/mkfinder-api)
@@ -46,7 +46,7 @@
 
 <br>
 <br>
-<h2>Imagens</h2>
+<h3>Imagens</h3>
 <br>
 
 - [Telas do projeto](Imagens.md)
