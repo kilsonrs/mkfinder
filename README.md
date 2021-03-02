@@ -5,13 +5,16 @@
 
 <br />
 
-
-<img align="right" src=".github/Dashboard.png" alt="MK Finder" width="300">
-
-Com o MkFinder, você não precisa entrar em vários sistemas até encontrar o cadastro que está procurando. Com apenas uma consulta, você obtém os dados mais relevantes para atender seu cliente com mais agilidade.
-
+<p align="center">
+  <img  src=".github/Dashboard.png" alt="MK Finder" width="600">
+</p>
 <br>
 <br>
+
+<p>
+  Com o MkFinder, você não precisa entrar em vários sistemas até encontrar o cadastro que está procurando. Com apenas uma consulta, você obtém os dados mais relevantes para atender seu cliente com mais agilidade.
+</p>
+
 <br>
 <br>
 <br>
