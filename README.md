@@ -20,11 +20,6 @@
 <br>
 <h1>MK-Finder</h1>
 <br>
-<h3>Pra que serve isso?</h3>
-<br>
-<p>
-  Eu uso o sistema <a href="http://mk-auth.com.br/page/mkauth-1">MK-Auth</a>, um sistema para Provedores de Internet. Preciso acessar mais de um sistema desse. Com o MK-Finder posso fazer isso num lugar só e atender o cliente com mais agilidade.
-</p>
 <br>
 <br>
 <h3>Demonstração</h3>
